@@ -49,7 +49,7 @@ public class Main {
        int result = (a > b)? a: b;
         System.out.println("The max number is "+result);
 
-        
+
 
     }
 }
