@@ -42,6 +42,6 @@ public class Main {
         dog.name = "dog name";
 
         dog.description();
-        
+
     }
 }
