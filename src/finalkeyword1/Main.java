@@ -10,7 +10,7 @@ public class Main {
         final int a =2;
 
         Student s = new Student(1,"kl");
-        Student s1 = new Student(2,"jkiop")
+        Student s1 = new Student(2,"jkiop");
 
 
     }
