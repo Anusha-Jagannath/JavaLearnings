@@ -23,7 +23,7 @@ public class Comparables {
             }
         });
 
-        Collections.sort(studentList, new SortByNameThenMarks().thenComparing(Student::getName).thenComparing(Student::getAge).reversed());
+       // Collections.sort(studentList, new SortByNameThenMarks().thenComparing(Student::getName).thenComparing(Student::getAge).reversed());
 
         for (Student s : studentList) {
             System.out.println(s.name + " " + s.age);
